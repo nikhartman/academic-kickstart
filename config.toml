@@ -1,5 +1,5 @@
 # Configuration of Academic
-# Documentation: https://sourcethemes.com/academic/
+# Documentation: https://sourcethemes.com/academic/docs/
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -185,7 +185,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -258,18 +258,18 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Skills"
+  url = "#skills"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Talks"
+  url = "#talks"
   weight = 4
 
 [[menu.main]]
