@@ -32,4 +32,4 @@ weight = 5
 
 # Biography
 
-Nik Hartman is a scientist. He likes this job and wishes to be paid more for doing it.
+Nik Hartman is a scientist. Currently, he is working as a post-doctoral fellow in Joshua Folk's lab at the University of British Columbia. Previously, Nik got his PhD with Nina Markovic at Johns Hopkins University.
