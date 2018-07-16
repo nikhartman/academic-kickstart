@@ -3,7 +3,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://nikhartman.com/"
+# baseurl = "http://nikhartman.com/"
+baseurl = "/"
 
 # Title of your site
 title = "nik hartman // scientist"
@@ -109,10 +110,10 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
@@ -257,25 +258,25 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 2
-
-[[menu.main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 3
-
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+# [[menu.main]]
+#   name = "Skills"
+#   url = "#skills"
+#   weight = 2
+#
+# [[menu.main]]
+#   name = "Publications"
+#   url = "#publications"
+#   weight = 3
+#
+# [[menu.main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 4
+#
+# [[menu.main]]
+#   name = "Teaching"
+#   url = "#teaching"
+#   weight = 5
 
 [[menu.main]]
   name = "Contact"
