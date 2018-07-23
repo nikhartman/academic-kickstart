@@ -10,11 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Quantum Transport and Computing",
+    "Quantum Transport",
+    "Quantum Computing",
     "Analog Electronics",
     "Open Source Software",
     "Hound Dogs",
-    "Doom Metal"
+    "Doom Metal",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,4 +33,8 @@ weight = 5
 
 # Biography
 
-Nik Hartman is a scientist. Currently, he is working as a post-doctoral fellow in Joshua Folk's lab at the University of British Columbia. Previously, Nik got his PhD with Nina Markovic at Johns Hopkins University.
+Hello! I'm Nik and I currently live and work in Vancouver, British Columbia. As I write this, I am working as a post doctoral fellow at the University of British Columbia. More specifically, I work with [Joshua Folk](http://www.phas.ubc.ca/~qdev/) doing quantum transport experiments. Recently, we have been excited about thermodynamic measurements of single electrons in GaAs quantum dots and designing/testing hybrid semiconductor/superconductor devices on InAs two-dimensional electron gases to host Majorana quasiparticles and potentially Majorana-based quantum bits.
+
+Prior to moving to Vancouver in late 2015, I earned my PhD in Physics with [Nina Marković](https://en.wikipedia.org/wiki/Nina_Markovi%C4%87), working on spin transport experiments in carbon nanotube quantum dots.
+
+Before I even knew what a post doctoral fellow was, I grew up in Harrisburg, PA and attended college at the University of Pittsburgh. Much of my interest in research science originated with my work in fluid dynamics with [Walter Goldburg](https://www.physicsandastronomy.pitt.edu/people/walter-i-goldburg) at Pitt.

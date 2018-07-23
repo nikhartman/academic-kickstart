@@ -1,3 +1,8 @@
+# TODO:
+#    add CV section with thumbnail and link to pdf
+#    add Talks (with links)
+#    add Publications (with links)
+
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/docs/
 
@@ -7,7 +12,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "nik hartman // scientist"
+title = "nik hartman // physicist // vancouver"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -65,7 +70,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nik.hartman@gmail.com"
-  address = "Hennings Building, Rm 101, 6224 Agricultrual Road, Vancouver, BC, V6T 1Z1, Canada"
+  address = "Hennings Building, Rm 101, 6224 Agricultural Road, Vancouver, BC, V6T 1Z1, Canada"
   office_hours = ""
   phone = "604 704 2273"
   skype = "nik.hartman"
@@ -244,7 +249,6 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//github.com/nikhartman"
 
-
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -258,21 +262,21 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-# [[menu.main]]
-#   name = "Skills"
-#   url = "#skills"
-#   weight = 2
+[[menu.main]]
+  name = "CV"
+  url = "#cv"
+  weight = 2
 #
 # [[menu.main]]
 #   name = "Publications"
 #   url = "#publications"
 #   weight = 3
-#
-# [[menu.main]]
-#   name = "Talks"
-#   url = "#talks"
-#   weight = 4
-#
+
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 4
+
 # [[menu.main]]
 #   name = "Teaching"
 #   url = "#teaching"
