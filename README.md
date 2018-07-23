@@ -2,7 +2,7 @@
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
 
-**Academic Kickstart** provides a minimal template to kickstart your new website by following the simple steps below.
+<!-- **Academic Kickstart** provides a minimal template to kickstart your new website by following the simple steps below.
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
@@ -24,10 +24,10 @@ Prerequisites:
 * [Download and install Git](https://git-scm.com/downloads)
 * [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
 
-1. Clone (or [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) or [download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip)) the *Academic Kickstart* repository with Git: 
+1. Clone (or [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) or [download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip)) the *Academic Kickstart* repository with Git:
 
        git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
+
     *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork.*
 
 2. Initialize the theme:
@@ -36,12 +36,20 @@ Prerequisites:
        git submodule update --init --recursive
 
 3. View your new website:
-      
+
        hugo server
 
     Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
-  
-4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it.
+
+4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it. -->
+
+## Hosting
+
+This page is hosted on my AWS account
+
+## Updating
+
+To update the content... edit this repository while testing with `hugo server`. Then run `hugo` to update the static content of the `public` folder on your local machine. Move the contents of `public` into the `nikhartman.com` bucket on S3.
 
 ## License
 
