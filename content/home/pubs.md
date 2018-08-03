@@ -25,6 +25,10 @@ T. Morgan-Wall, H. J. Hughes, **N. Hartman**, T. M. McQueen, N. Marković,
 "*Fabrication of sub-15nm aluminum wires by controlled etching*,"
 [Applied Physics Letters 104, 173101 (2014).](https://doi.org/10.1063/1.4874137) [	arXiv:1402.5838](https://arxiv.org/abs/1402.5838)
 
+V. Kostov, D. Allan, **N. Hartman**, S. Guzewich, J. Rogers,
+"*Winter is Coming*,"
+[arXiv:1304.0445 (2013).](https://arxiv.org/abs/1304.0445), [Science Magazine - News of the Week](http://science.sciencemag.org/content/340/6129/126.3.full) {{% staticref "doc/science-2013-news_of_the_week.pdf" %}}(PDF){{% /staticref %}}
+
 S. R. Diegelmann, **N. Hartman**, N. Marković, J. D. Tovar,
 "*Synthesis and alignment of discrete polydiacetylene-peptide nanostructures*,"
 [Journal of the American Chemical Society 134, 2028–2031 (2012).](https://doi.org/10.1021/ja211539j)
