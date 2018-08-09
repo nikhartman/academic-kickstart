@@ -33,7 +33,7 @@ weight = 5
 
 # Biography
 
-Hello! I'm Nik and I currently live and work in Vancouver, British Columbia. As I write this, I am working as a post doctoral fellow at the University of British Columbia. More specifically, I work with [Joshua Folk](http://www.phas.ubc.ca/~qdev/) doing quantum transport experiments. We have recently been excited about thermodynamic measurements of single electrons in GaAs quantum dots. Over the past three years, I have also been involved in the Microsoft collaboration to design/test hybrid semiconductor/superconductor devices that host Majorana quasiparticles. The goal being to build up the technology for Majorana-based quantum bits.
+Hello! I'm Nik and I currently live and work in Vancouver, British Columbia. As I write this, I am working as a post doctoral fellow at the University of British Columbia. More specifically, I work with [Joshua Folk](http://www.phas.ubc.ca/~qdev/) doing quantum transport experiments. We have recently been excited about thermodynamic measurements of single electrons in GaAs quantum dots. Over the past three years, I have also been involved in the Microsoft collaboration to design/test hybrid semiconductor/superconductor devices that host Majorana quasiparticles; the goal being to build up the technology for Majorana-based quantum bits.
 
 Prior to moving to Vancouver in late 2015, I earned my PhD in Physics with [Nina Marković](https://en.wikipedia.org/wiki/Nina_Markovi%C4%87). My thesis work was on spin transport experiments in carbon nanotube quantum dots.
 
