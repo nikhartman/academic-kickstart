@@ -15,7 +15,7 @@ weight = 30
 
 **N. Hartman**, C. Olsen, S. Luescher, M. Samani, S. Fallahi, G. Gardner, M. Manfra, J. Folk,
 "*Direct Entropy Measurement in a Mesoscopic Quantum System*,"
-Nature Physics (ACCEPTED).
+[Nature Physics (2018).](https://doi.org/10.1038/s41567-018-0250-5)
 
 T. Morgan-Wall, B. Leith, **N. Hartman**, A. Rahman, N. Marković,
 "*Measurement of Critical Currents of Superconducting Aluminum Nanowires in External Magnetic Fields: Evidence for a Weber Blockade*,"

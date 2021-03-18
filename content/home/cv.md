@@ -14,4 +14,4 @@ weight = 20
 +++
 
 <!-- Download: [pdf](/doc/hartman_cv_generic.pdf) -->
-{{% staticref "doc/hartman_cv_generic.pdf" %}}Download PDF{{% /staticref %}}
+{{% staticref "doc/hartman_cv_2021.pdf" %}}Download PDF{{% /staticref %}}

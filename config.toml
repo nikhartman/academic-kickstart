@@ -61,18 +61,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Nikolaus Hartman"
-  role = "Post Doctoral Fellow"
+  role = "Senior Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of British Columbia", url = "" } ]
+  organizations = [ { name = "Microsoft Station Q", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nik.hartman@gmail.com"
-  address = "Hennings Building, Rm 101, 6224 Agricultural Road, Vancouver, BC, V6T 1Z1, Canada"
+  address = "Physics Department B87, 525 Northwestern Avenue, West Lafayette, IN, 47907, USA"
   office_hours = ""
-  phone = "604 704 2273"
+  phone = "765 203 1626"
   skype = "nik.hartman"
   telegram = ""
 
