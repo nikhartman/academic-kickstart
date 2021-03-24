@@ -1,12 +1,16 @@
-baseURL = "https://example.com/"
-languageCode = "en"
-defaultContentLanguage = "en"
-title = "Hallo"
+baseURL = "/"
+languageCode = "en-us"
+title = "nik hartman // physicist"
 theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Hallo"
+    name = "Nik Hartman"
+
+[params.colors]
+    background = "#212121"
+    foreground = "#edf7ff"
+    hover = "#ffba82"
 
 [params]
 
@@ -14,15 +18,21 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
-        url = "mailto:mail@example.org"
+        url = "mailto:nik.hartman@gmail.com"
 
     [[params.links]]
         icon = "github"
         title = "Github"
-        url = "https://github.com/"
+        url = "https://github.com/nikhartman"
 
     [[params.links]]
         icon = "twitter"
         title = "Twitter"
-        url = "https://twitter.com/"
-      
+        url = "https://twitter.com/nikhartman"
+
+    [[params.links]]
+        iconorigin = "ai"
+        iconset = "ai"
+        icon = "google-scholar"
+        title = "Google Scholar"
+        url = "https://scholar.google.ca/citations?user=N_qsWycAAAAJ&hl=en"
